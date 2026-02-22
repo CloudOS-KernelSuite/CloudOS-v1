@@ -42,5 +42,5 @@ Rimani aggiornato, scarica l'ultima versione o ricevi assistenza tecnica nel nos
 ---
 
 ## 📄 Licenza & Copyright
-Copyright © 2026 **Valencia2k**. Tutti i diritti riservati.
+Copyright © 2026 **CloudOS**. Tutti i diritti riservati.
 L'uso non autorizzato, la ridistribuzione o il reverse engineering del software CloudOS è severamente vietato.
