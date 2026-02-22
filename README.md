@@ -37,7 +37,7 @@ Per garantire la stabilità e le performance di CloudOS, il tuo hardware deve so
 ## 👥 Community & Support
 Rimani aggiornato, scarica l'ultima versione o ricevi assistenza tecnica nel nostro server ufficiale.
 
-👉 **Unisciti al nostro Discord:** [discord.gg/cloudos](https://discord.gg/pPkTavas)
+👉 **Unisciti al nostro Discord:** https://discord.gg/pPkTavas
 
 ---
 
